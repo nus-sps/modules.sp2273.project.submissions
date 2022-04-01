@@ -13,4 +13,4 @@ mpmath>=1.2.1
 scikit-learn>=0.18
 biopython>=1.79
 statsmodels
-string
+strings
