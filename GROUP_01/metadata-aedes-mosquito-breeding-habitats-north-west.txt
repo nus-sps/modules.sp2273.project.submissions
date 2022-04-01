@@ -1,0 +1,41 @@
+# Metadata for Aedes Mosquito Breeding Habitats - North West
+---
+Identifier: '18edef4a-bfd9-473b-b475-2dc142c1dd0e'
+Name: 'aedes-mosquito-breeding-habitats-north-west'
+Title: 'Aedes Mosquito Breeding Habitats - North West'
+Description:
+  - 'Mosquito breeding habitat in north west region.'
+  - ''
+  - 'Based on notified dengue cases and mosquito breeding habitats detected in the
+    last 14 days. Information on dengue cases is provisional and is subject to changes
+    due to epidemiological investigation findings.'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Mosquito breeding habitat in north west region'
+  - 'onemap'
+  - 'themes'
+Publisher:
+  Name: 'National Environment Agency'
+  Admin 1:
+    Name: 'Goh Jie Wei'
+    Department: 'NATIONAL ENVIRONMENT AGENCY'
+    Email: 'goh_jie_wei@nea.gov.sg'
+Sources:
+  - 'National Environment Agency'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Daily'
+Last Updated: '2021-10-02T00:01:20.458958'
+Resources:
+  -
+    Identifier: '50e06986-b6ed-4cad-8f29-e6fec7499a1c'
+    Title: 'Aedes Mosquito Breeding Habitats - North West (KML)'
+    Url: 'https://geo.data.gov.sg/breedinghabitat-northwest-area/2021/09/29/kml/breedinghabitat-northwest-area.kml'
+    Format: 'KML'
+    Last Updated: '2021-09-28T16:00:00'
+  -
+    Identifier: 'ce272cf1-ceca-4092-b5bf-2dfcd6fe51a8'
+    Title: 'Aedes Mosquito Breeding Habitats - North West (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/breedinghabitat-northwest-area/2021/09/29/geojson/breedinghabitat-northwest-area.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2021-09-28T16:00:00'

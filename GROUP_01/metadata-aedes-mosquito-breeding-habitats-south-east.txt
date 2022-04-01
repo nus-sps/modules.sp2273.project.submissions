@@ -1,0 +1,41 @@
+# Metadata for Aedes Mosquito Breeding Habitats - South East
+---
+Identifier: '2867167d-2d52-4350-9db2-1bbe8780bc57'
+Name: 'aedes-mosquito-breeding-habitats-south-east'
+Title: 'Aedes Mosquito Breeding Habitats - South East'
+Description:
+  - 'Mosquito breeding habitat in south east region.'
+  - ''
+  - 'Based on notified dengue cases and mosquito breeding habitats detected in the
+    last 14 days. Information on dengue cases is provisional and is subject to changes
+    due to epidemiological investigation findings.'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Mosquito breeding habitat in south east region'
+  - 'onemap'
+  - 'themes'
+Publisher:
+  Name: 'National Environment Agency'
+  Admin 1:
+    Name: 'Goh Jie Wei'
+    Department: 'NATIONAL ENVIRONMENT AGENCY'
+    Email: 'goh_jie_wei@nea.gov.sg'
+Sources:
+  - 'National Environment Agency'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Daily'
+Last Updated: '2021-10-07T00:01:13.646141'
+Resources:
+  -
+    Identifier: '9d46390c-fd45-4fd4-9939-01bae488af45'
+    Title: 'Aedes Mosquito Breeding Habitats - South East (KML)'
+    Url: 'https://geo.data.gov.sg/breedinghabitat-southeast-area/2021/10/05/kml/breedinghabitat-southeast-area.kml'
+    Format: 'KML'
+    Last Updated: '2021-10-04T16:00:00'
+  -
+    Identifier: '166ed18e-f9a1-4b8c-952c-dfc0dcec795e'
+    Title: 'Aedes Mosquito Breeding Habitats - South East (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/breedinghabitat-southeast-area/2021/10/05/geojson/breedinghabitat-southeast-area.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2021-10-04T16:00:00'

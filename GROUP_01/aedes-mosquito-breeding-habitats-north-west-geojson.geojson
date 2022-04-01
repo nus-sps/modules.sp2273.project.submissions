@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "kml_1", "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes<\/em><\/th><\/tr><tr bgcolor=\"#E3E3F3\"> <th>JOIN_COUNT<\/th> <td>1<\/td> <\/tr><tr bgcolor=\"\"> <th>AREANAME<\/th> <td>Aedes Mosquito Breeding Habitats : 1<\/td> <\/tr><tr bgcolor=\"#E3E3F3\"> <th>DETAIL<\/th> <td>Aedes Mosquito Breeding Habitats : 1<\/td> <\/tr><tr bgcolor=\"\"> <th>INC_CRC<\/th> <td>520840F4116BB663<\/td> <\/tr><tr bgcolor=\"#E3E3F3\"> <th>FMEL_UPD_D<\/th> <td>20210920103946<\/td> <\/tr><\/table><\/center>" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 103.835776782734001, 1.4342185641501, 0.0 ], [ 103.835776784653007, 1.43602729171007, 0.0 ], [ 103.837573975886002, 1.43602728906609, 0.0 ], [ 103.837573972555006, 1.43421856150946, 0.0 ], [ 103.835776782734001, 1.4342185641501, 0.0 ] ] ] } },
+{ "type": "Feature", "properties": { "Name": "kml_2", "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes<\/em><\/th><\/tr><tr bgcolor=\"#E3E3F3\"> <th>JOIN_COUNT<\/th> <td>1<\/td> <\/tr><tr bgcolor=\"\"> <th>AREANAME<\/th> <td>Aedes Mosquito Breeding Habitats : 1<\/td> <\/tr><tr bgcolor=\"#E3E3F3\"> <th>DETAIL<\/th> <td>Aedes Mosquito Breeding Habitats : 1<\/td> <\/tr><tr bgcolor=\"\"> <th>INC_CRC<\/th> <td>0318D5061F16AC5E<\/td> <\/tr><tr bgcolor=\"#E3E3F3\"> <th>FMEL_UPD_D<\/th> <td>20210920103946<\/td> <\/tr><\/table><\/center>" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 103.778266630312999, 1.43783535229756, 0.0 ], [ 103.778266586944, 1.43964407896071, 0.0 ], [ 103.780063780201004, 1.43964412192239, 0.0 ], [ 103.780063822154005, 1.43783539520524, 0.0 ], [ 103.778266630312999, 1.43783535229756, 0.0 ] ] ] } }
+]
+}

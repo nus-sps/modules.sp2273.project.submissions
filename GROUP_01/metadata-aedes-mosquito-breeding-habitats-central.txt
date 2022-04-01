@@ -1,0 +1,41 @@
+# Metadata for Aedes Mosquito Breeding Habitats - Central
+---
+Identifier: '3787139f-d76b-4a92-af36-1d5f48e1e70e'
+Name: 'aedes-mosquito-breeding-habitats-central'
+Title: 'Aedes Mosquito Breeding Habitats - Central'
+Description:
+  - 'Mosquito breeding habitat in central region.'
+  - ''
+  - 'Based on notified dengue cases and mosquito breeding habitats detected in the
+    last 14 days. Information on dengue cases is provisional and is subject to changes
+    due to epidemiological investigation findings.'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Mosquito breeding habitat in central region'
+  - 'onemap'
+  - 'themes'
+Publisher:
+  Name: 'National Environment Agency'
+  Admin 1:
+    Name: 'Goh Jie Wei'
+    Department: 'NATIONAL ENVIRONMENT AGENCY'
+    Email: 'goh_jie_wei@nea.gov.sg'
+Sources:
+  - 'National Environment Agency'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Daily'
+Last Updated: '2021-10-02T00:01:10.379036'
+Resources:
+  -
+    Identifier: 'cb0d2f01-6359-4086-bd25-e595bc733902'
+    Title: 'Aedes Mosquito Breeding Habitats - Central (KML)'
+    Url: 'https://geo.data.gov.sg/breedinghabitat-central-area/2021/09/29/kml/breedinghabitat-central-area.kml'
+    Format: 'KML'
+    Last Updated: '2021-09-28T16:00:00'
+  -
+    Identifier: '635c8db6-2348-4e85-9f9a-839986bf35cd'
+    Title: 'Aedes Mosquito Breeding Habitats - Central (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/breedinghabitat-central-area/2021/09/29/geojson/breedinghabitat-central-area.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2021-09-28T16:00:00'

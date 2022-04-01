@@ -1,0 +1,41 @@
+# Metadata for Aedes Mosquito Breeding Habitats - South West
+---
+Identifier: 'a2742fb2-f9c2-4f1f-858b-ab5df24c6747'
+Name: 'aedes-mosquito-breeding-habitats-south-west'
+Title: 'Aedes Mosquito Breeding Habitats - South West'
+Description:
+  - 'Mosquito breeding habitat in south west region.'
+  - ''
+  - 'Based on notified dengue cases and mosquito breeding habitats detected in the
+    last 14 days. Information on dengue cases is provisional and is subject to changes
+    due to epidemiological investigation findings.'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Mosquito breeding habitat in south west region'
+  - 'onemap'
+  - 'themes'
+Publisher:
+  Name: 'National Environment Agency'
+  Admin 1:
+    Name: 'Goh Jie Wei'
+    Department: 'NATIONAL ENVIRONMENT AGENCY'
+    Email: 'goh_jie_wei@nea.gov.sg'
+Sources:
+  - 'National Environment Agency'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Daily'
+Last Updated: '2021-10-02T00:01:30.959305'
+Resources:
+  -
+    Identifier: '8e202d94-6a61-4cc0-8ca1-389b93ab2212'
+    Title: 'Aedes Mosquito Breeding Habitats - South West (KML)'
+    Url: 'https://geo.data.gov.sg/breedinghabitat-southwest-area/2021/09/29/kml/breedinghabitat-southwest-area.kml'
+    Format: 'KML'
+    Last Updated: '2021-09-28T16:00:00'
+  -
+    Identifier: 'c25a0488-c8c1-4fb7-9014-5ea092c5b4aa'
+    Title: 'Aedes Mosquito Breeding Habitats - South West (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/breedinghabitat-southwest-area/2021/09/29/geojson/breedinghabitat-southwest-area.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2021-09-28T16:00:00'
