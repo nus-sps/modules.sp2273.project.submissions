@@ -14,3 +14,4 @@ scikit-learn>=0.18
 biopython>=1.79
 statsmodels
 ee
+openpyxl>=3.0.9
